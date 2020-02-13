@@ -1,2 +1,2 @@
 # PluginIntegration
-Plugin for log &amp; throw and throwing kitchen sink
+Plugin integration for log &amp; throw and throwing kitchen sink
